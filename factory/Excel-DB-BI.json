@@ -1,0 +1,9 @@
+{
+	"name": "Excel-DB-BI",
+	"location": "switzerlandnorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "adbaf1f8-dc22-4c43-afe5-21b02aa7bdb8",
+		"tenantId": "5a4a6b80-2fe4-4e02-9d73-0ec881de7d70"
+	}
+}
