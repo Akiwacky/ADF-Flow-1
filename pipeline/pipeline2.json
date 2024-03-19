@@ -17,7 +17,7 @@
 				"typeProperties": {
 					"notebookPath": "/dataflow_transform",
 					"baseParameters": {
-						"inputPath": "https://adfwksexcel.blob.core.windows.net/data/",
+						"inputPath": "dbfs:/mnt/data/newdata.xlsx",
 						"outputPath": "wasbs://transformed-data@adfwksexcel.blob.core.windows.net/"
 					}
 				},
