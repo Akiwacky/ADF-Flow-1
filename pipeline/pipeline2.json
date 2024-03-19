@@ -18,7 +18,7 @@
 					"notebookPath": "/dataflow_transform",
 					"baseParameters": {
 						"inputPath": "https://adfwksexcel.blob.core.windows.net/data/",
-						"outputPath": "https://adfwksexcel.blob.core.windows.net/transformed-data"
+						"outputPath": "wasbs://transformed-data@adfwksexcel.blob.core.windows.net/"
 					}
 				},
 				"linkedServiceName": {
