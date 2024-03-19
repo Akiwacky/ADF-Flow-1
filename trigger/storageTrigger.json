@@ -9,13 +9,19 @@
 					"referenceName": "pipeline1",
 					"type": "PipelineReference"
 				}
+			},
+			{
+				"pipelineReference": {
+					"referenceName": "pipeline2",
+					"type": "PipelineReference"
+				}
 			}
 		],
 		"type": "BlobEventsTrigger",
 		"typeProperties": {
 			"blobPathBeginsWith": "/data/blobs/",
 			"ignoreEmptyBlobs": true,
-			"scope": "/subscriptions/92b925d0-5df3-4c01-8f22-05bc353bc9f6/resourceGroups/Data-Flow-Test/providers/Microsoft.Storage/storageAccounts/exceldatastorage555",
+			"scope": "/subscriptions/92b925d0-5df3-4c01-8f22-05bc353bc9f6/resourceGroups/Az-Data-Flow-Test/providers/Microsoft.Storage/storageAccounts/adfwksexcel",
 			"events": [
 				"Microsoft.Storage.BlobCreated"
 			]
