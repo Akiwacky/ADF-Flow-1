@@ -1,0 +1,9 @@
+{
+	"name": "adfdataflow24",
+	"location": "switzerlandnorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d12bdaa6-18d3-4b53-8ee4-7ba11b19e4e9",
+		"tenantId": "5a4a6b80-2fe4-4e02-9d73-0ec881de7d70"
+	}
+}
