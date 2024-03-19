@@ -1,0 +1,9 @@
+{
+	"name": "DataFlowExcel555",
+	"location": "switzerlandnorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9fdf51fd-3011-4968-b7db-1e10563b2f85",
+		"tenantId": "5a4a6b80-2fe4-4e02-9d73-0ec881de7d70"
+	}
+}
